@@ -1,5 +1,5 @@
 # Paola Santos Lima
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Engenharia-de-software;1-SEMESTRE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Engenhariaㅤdeㅤsoftware;1ㅤSEMESTRE)](https://git.io/typing-svg)
 > Estudante de Engenharia de Software da Universidade Cidade de São Paulo (UNICID). 
  
 ---
